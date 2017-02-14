@@ -1,0 +1,56 @@
+body {
+	background-image: url("main.jpe");
+	color: white;
+	font-size: 20px;
+
+}
+h1 {
+	width: 25%;
+	margin-right: auto;
+	margin-left: auto;
+	border: solid 2px;
+	border-radius: 5px;
+	padding: 5px;
+	text-align: center;
+	background: rgba(135, 69, 33, 0.7);
+
+}
+h2 {
+	width: 25%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 5px;
+	text-align: center;
+}
+aside {
+	width: 10%;
+	border: solid 2px;
+	float: left;
+	background-color: #874521;
+
+	opacity: 0.8;
+}
+p.side {
+	margin: 5px;
+	font-size: 35px;
+	border: solid 1px grey;
+	padding: 4px;
+}
+p {
+	text-align: center;
+}
+p.side:hover {
+	background-color: #777;
+}
+div.main {
+	padding: 10px;
+	width: 75%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	background-color: rgba(61, 132, 126, 0.5);
+
+	
+
+}
+
